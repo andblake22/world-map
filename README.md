@@ -1,4 +1,4 @@
-JavaScript Programming final at WGU. The course covered JavaScript, but for some reason the final was Angular-focused. Zero emphasis on styling :)
+Zero emphasis on styling :)
 
 I programmatically added event emitters to each country path on the world-map.svg. When you click on a country, an api call is made to the WorldBanks api and data is retrieved/displayed for that country.
 
